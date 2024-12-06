@@ -22,20 +22,20 @@
 3. **의존성 설치**: Install dependencies
    ```bash
    pip install -r requirements.txt
-4. **가상환경 실행(최상위 루트)**: Activate the virtual environment (at the root level)
-**Windows**:
-```bash
-<가상환경 이름>\Scriptsctivate
-```
-**Mac/Linux**:
-```bash
-<가상환경 이름>/bin/activate
-```
+4. **가상환경 실행(최상위 루트)**: Activate the virtual environment (at the root level)  
+  **Windows**:
+    ```bash
+    <가상환경 이름>\Scriptsctivate
+    ```
+  **Mac/Linux**:
+    ```bash
+    <가상환경 이름>/bin/activate
+    ```
 
-7. **서버 구동(최상위 루트/myroject)**: Run the server (at the root level of myproject)
-```bash
-python manage.py runserver
-```
+7. **서버 구동(최상위 루트/myroject)**: Run the server (at the root level of myproject)  
+    ```bash
+    python manage.py runserver
+    ```
 
 ## 🛠 사용 방법: how to use
 1. **로컬 호스트 실행**: http://127.0.0.1:8000/  
