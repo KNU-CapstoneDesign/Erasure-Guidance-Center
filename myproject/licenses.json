@@ -1,0 +1,282 @@
+[
+  {
+    "License": "BSD License",
+    "Name": "Django",
+    "Version": "3.2.25"
+  },
+  {
+    "License": "BSD License",
+    "Name": "Jinja2",
+    "Version": "3.1.2"
+  },
+  {
+    "License": "BSD License",
+    "Name": "MarkupSafe",
+    "Version": "2.1.3"
+  },
+  {
+    "License": "BSD",
+    "Name": "PySocks",
+    "Version": "1.7.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "PyYAML",
+    "Version": "6.0.1"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "aiofiles",
+    "Version": "23.2.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "asgiref",
+    "Version": "3.7.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "attrs",
+    "Version": "24.2.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "autopep8",
+    "Version": "2.0.4"
+  },
+  {
+    "License": "MIT License",
+    "Name": "beautifulsoup4",
+    "Version": "4.12.3"
+  },
+  {
+    "License": "Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "certifi",
+    "Version": "2024.8.30"
+  },
+  {
+    "License": "MIT License",
+    "Name": "cffi",
+    "Version": "1.17.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "charset-normalizer",
+    "Version": "3.4.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "colorama",
+    "Version": "0.4.6"
+  },
+  {
+    "License": "BSD License",
+    "Name": "contourpy",
+    "Version": "1.3.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "cycler",
+    "Version": "0.12.1"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "dict-toolbox",
+    "Version": "4.1.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "fonttools",
+    "Version": "4.54.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "h11",
+    "Version": "0.14.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "idna",
+    "Version": "3.10"
+  },
+  {
+    "License": "BSD License",
+    "Name": "kiwisolver",
+    "Version": "1.4.7"
+  },
+  {
+    "License": "BSD License",
+    "Name": "lazy-object-proxy",
+    "Version": "1.9.0"
+  },
+  {
+    "License": "Python Software Foundation License",
+    "Name": "matplotlib",
+    "Version": "3.9.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "msgpack",
+    "Version": "1.0.6"
+  },
+  {
+    "License": "BSD License",
+    "Name": "nest-asyncio",
+    "Version": "1.5.8"
+  },
+  {
+    "License": "BSD License",
+    "Name": "numpy",
+    "Version": "2.1.1"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "opencv-python",
+    "Version": "4.10.0.84"
+  },
+  {
+    "License": "Apache Software License; MIT License",
+    "Name": "outcome",
+    "Version": "1.3.0.post0"
+  },
+  {
+    "License": "Apache Software License; BSD License",
+    "Name": "packaging",
+    "Version": "24.1"
+  },
+  {
+    "License": "Historical Permission Notice and Disclaimer (HPND)",
+    "Name": "pillow",
+    "Version": "10.4.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "pop",
+    "Version": "27.0.1"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "pop-config",
+    "Version": "12.0.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "pop-loop",
+    "Version": "1.1.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pycodestyle",
+    "Version": "2.11.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "pycparser",
+    "Version": "2.22"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pyparsing",
+    "Version": "3.1.4"
+  },
+  {
+    "License": "Apache Software License; BSD License",
+    "Name": "python-dateutil",
+    "Version": "2.9.0.post0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "python-dotenv",
+    "Version": "1.0.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pytz",
+    "Version": "2024.2"
+  },
+  {
+    "License": "Apache2.0",
+    "Name": "rank-bm25",
+    "Version": "0.2.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "rend",
+    "Version": "7.0.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "requests",
+    "Version": "2.31.0"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "selenium",
+    "Version": "4.26.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "six",
+    "Version": "1.16.0"
+  },
+  {
+    "License": "Apache Software License; MIT License",
+    "Name": "sniffio",
+    "Version": "1.3.0"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "sortedcontainers",
+    "Version": "2.4.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "soupsieve",
+    "Version": "2.4.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "sqlparse",
+    "Version": "0.4.4"
+  },
+  {
+    "License": "MIT License",
+    "Name": "toml",
+    "Version": "0.10.2"
+  },
+  {
+    "License": "Apache Software License; MIT License",
+    "Name": "trio",
+    "Version": "0.27.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "trio-websocket",
+    "Version": "0.11.1"
+  },
+  {
+    "License": "Python Software Foundation License",
+    "Name": "typing_extensions",
+    "Version": "4.7.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "urllib3",
+    "Version": "2.0.7"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "webdriver-manager",
+    "Version": "4.0.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "websocket-client",
+    "Version": "1.8.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "wsproto",
+    "Version": "1.2.0"
+  }
+]
