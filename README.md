@@ -26,13 +26,13 @@
   **Windows**:
     ```bash
     <가상환경 이름>\Scriptsctivate
-    ```
-  **Mac/Linux**:
+    ```  
+  **Mac/Linux**:  
     ```bash
     <가상환경 이름>/bin/activate
     ```
 
-7. **서버 구동(최상위 루트/myroject)**: Run the server (at the root level of myproject)  
+5. **서버 구동(최상위 루트/myroject)**: Run the server (at the root level of myproject)  
     ```bash
     python manage.py runserver
     ```
