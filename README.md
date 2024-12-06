@@ -29,8 +29,7 @@
 6. **서버 구동(최상위 루트/myroject)**: Run the server (at the root level of myproject)  
     ```bash
     python manage.py runserver
-    ```
-
+    
 ## 🛠 사용 방법: how to use
 1. **로컬 호스트 실행**: http://127.0.0.1:8000/  
    Access the local host  
